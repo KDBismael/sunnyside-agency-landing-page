@@ -5,15 +5,15 @@
 }
 @font-face {
     font-family: barlowRegular;
-    src: url('./Barlow/Barlow-Regular.ttf');
+    src: url('../Barlow/Barlow-Regular.ttf');
 }
 @font-face {
     font-family: barlowBold;
-    src: url('./Barlow/Barlow-Bold.ttf');
+    src: url('../Barlow/Barlow-Bold.ttf');
 }
 @font-face {
     font-family: barlowThin;
-    src: url('./Barlow/Barlow-Thin.ttf');
+    src: url('../Barlow/Barlow-Thin.ttf');
 }
 
 body{
@@ -28,7 +28,7 @@ body{
 }
 /*header start*/
 header{
-    background-image: url('./images/desktop/image-header.jpg');
+    background-image: url('../images/desktop/image-header.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -125,7 +125,7 @@ header{
     display: grid;
 }
 .image1{
-    background-image: url('./images/desktop/image-transform.jpg');
+    background-image: url('../images/desktop/image-transform.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -160,7 +160,7 @@ header{
     display: grid;
 }
 .image2{
-    background-image: url('./images/desktop/image-stand-out.jpg');
+    background-image: url('../images/desktop/image-stand-out.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -195,7 +195,7 @@ header{
     display: grid;
 }
 .graphic{
-    background-image: url('./images/desktop/image-graphic-design.jpg');
+    background-image: url('../images/desktop/image-graphic-design.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -220,7 +220,7 @@ header{
 }
 
 .photography{
-    background-image: url('./images/desktop/image-photography.jpg');
+    background-image: url('../images/desktop/image-photography.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -294,7 +294,7 @@ header{
     width: 100%;
 }
 .milk{
-    background-image: url('./images/desktop/image-gallery-milkbottles.jpg');
+    background-image: url('../images/desktop/image-gallery-milkbottles.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -302,14 +302,14 @@ header{
     width:100%;
 }
 .orange{
-    background-image: url('./images/desktop/image-gallery-orange.jpg');
+    background-image: url('../images/desktop/image-gallery-orange.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height:100%;
     width:100%;
 }
 .cone{
-    background-image: url('./images/desktop/image-gallery-cone.jpg');
+    background-image: url('../images/desktop/image-gallery-cone.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -317,7 +317,7 @@ header{
     width:100%;
 }
 .sugar{
-    background-image: url('./images/desktop/image-gallery-sugarcubes.jpg');
+    background-image: url('../images/desktop/image-gallery-sugarcubes.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height:100%;
